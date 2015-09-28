@@ -3,9 +3,7 @@ Sample Project, by Valuehorizon
 ====================================
 
 
-A Django-based Sample Project toolkit. 
-It also includes documentation, test coverage and a good amount of sample data to play around with.
-This app is a part of the Valuehorizon application ecosystem.
+A sample project used to try/test the Valuehorizon application ecosystem.
 
 Installation
 ============
