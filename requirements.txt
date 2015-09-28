@@ -1,0 +1,5 @@
+Django==1.8.1
+valuehorizon-forex==0.6.3
+valuehorizon-people==0.2
+valuehorizon-countries==0.1.3
+valuehorizon-companies==1.0
